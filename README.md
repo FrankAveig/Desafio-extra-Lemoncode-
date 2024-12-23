@@ -1,7 +1,5 @@
 # 🍋 Ejercicio extra Layout Lemoncode
 
-Este proyecto implementa un diseño responsive para la página de miembros de Lemoncode, adaptándose a diferentes tamaños de pantalla.
-
 ## Breakpoints
 
 ### Desktop (> 768px)
